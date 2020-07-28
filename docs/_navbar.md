@@ -1,4 +1,6 @@
 * [需求規格](/spec/)
+	* [iOS app](/spec/iOS/)
+	* [Android app](/spec/Android/)
 * [時程安排](/schedule/)
 * [開發者技術](/dev/)
 * [API 文件](/api/)
